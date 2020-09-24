@@ -1,0 +1,2 @@
+C:\Users\kelfilal\OneDrive\Session 2  HIVER ISI\C#\TP\TP_Contact_C_K\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\kelfilal\OneDrive\Session 2  HIVER ISI\C#\TP\TP_Contact_C_K\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
